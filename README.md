@@ -1740,6 +1740,18 @@
             </td>
             <td>2023-03-22</td>
         </tr>
+         <tr>
+            <td>80</td>
+            <td><del> <a href="https://chat.tune.app" target="_blank">https://chat.tune.app</a>
+            </del> 
+            </td>
+            <td>2024-04-07</td>
+            <td>
+                        🆓
+            </td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 <!-- abnormal-end -->
